@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/r-movie/index.html/static/css/main.97c47272.css",
-    "main.js": "/r-movie/index.html/static/js/main.7fc30dca.js",
-    "static/js/787.ac04ab78.chunk.js": "/r-movie/index.html/static/js/787.ac04ab78.chunk.js",
-    "index.html": "/r-movie/index.html/index.html",
-    "main.97c47272.css.map": "/r-movie/index.html/static/css/main.97c47272.css.map",
-    "main.7fc30dca.js.map": "/r-movie/index.html/static/js/main.7fc30dca.js.map",
-    "787.ac04ab78.chunk.js.map": "/r-movie/index.html/static/js/787.ac04ab78.chunk.js.map"
+    "main.css": "./static/css/main.97c47272.css",
+    "main.js": "./static/js/main.1d6f3d0c.js",
+    "static/js/787.ac04ab78.chunk.js": "./static/js/787.ac04ab78.chunk.js",
+    "index.html": "./index.html",
+    "main.97c47272.css.map": "./static/css/main.97c47272.css.map",
+    "main.1d6f3d0c.js.map": "./static/js/main.1d6f3d0c.js.map",
+    "787.ac04ab78.chunk.js.map": "./static/js/787.ac04ab78.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97c47272.css",
-    "static/js/main.7fc30dca.js"
+    "static/js/main.1d6f3d0c.js"
   ]
 }
